@@ -15,4 +15,5 @@ I am excited to introduce my latest creation: a 2-step verification application 
 Your feedback is invaluable! If you have any suggestions or feature requests, please don't hesitate to reach out.
 
 
-<img src="https://github.com/user-attachments/assets/c3c995fc-7455-4c6e-a09f-dd83cf5909b6" width="500" height="auto">
+
+<img src="https://github.com/user-attachments/assets/5d434135-0584-4a77-8b19-8b510594e685" width="500" height="auto">
